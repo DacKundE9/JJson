@@ -1,0 +1,27 @@
+{
+  "pulbicField": 3,
+  "serializablePrivateField": 3,
+  "arr": [
+    1,
+    1.2,
+    3
+  ],
+  "list": [
+    5,
+    3.2,
+    124.2
+  ],
+  "serializableStruct": {
+    "a": 10,
+    "str": "serializableStruct"
+  },
+  "myDic": {
+    "a": 1,
+    "b": 2,
+    "c": 3
+  },
+  "myEnum1": "B",
+  "myEnum2": "E",
+  "nullable": null,
+  "nullableBool": true
+}
