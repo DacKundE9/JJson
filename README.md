@@ -18,7 +18,4 @@ wrong comma(,) can parse perfactly...
 * Unity Engine Asset Package
 https://github.com/DacKundE9/JJson/raw/master/Unity%20Packages/JJson%20ver%201.0.unitypackage
 
-have question or bug report, please email
-jws@tpotstudio.net
-
 Thanks!!
